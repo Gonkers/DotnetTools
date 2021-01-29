@@ -1,17 +1,19 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
 
-    <PackageId>Gonkers.NugetVersionClaimer</PackageId>
+    <PackageId>Gonkers.NuGetTools.NextPatchVersion</PackageId>
     <Version>0.1</Version>
 
     <PackAsTool>true</PackAsTool>
-    <ToolCommandName>nuget-version-claimer</ToolCommandName>
+    <ToolCommandName>next-patch-version</ToolCommandName>
     <PackageOutputPath>./nupkg</PackageOutputPath>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Authors>Gonkers</Authors>
+    <Product>Gonkers.NuGetTools.NextPatchVersion</Product>
   </PropertyGroup>
 
   <ItemGroup>

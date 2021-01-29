@@ -1,4 +1,4 @@
-﻿namespace NuGetVersionClaimer
+﻿namespace Gonkers.NuGetTools.NextPatchVersion
 {
     public static class Constants
     {
