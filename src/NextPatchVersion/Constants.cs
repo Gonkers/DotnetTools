@@ -6,8 +6,8 @@
         public static class ExitCodes
         {
             public const int
-                ProjectFileMissing = 1,
-                ProjectFileCorrupt = 2,
+                SettingsFileMissing = 1,
+                SettingsFileCorrupt = 2,
                 MissingPackageId = 3,
                 UnknownError = 99;
         }
