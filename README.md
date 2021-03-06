@@ -1,5 +1,5 @@
-# Gonkers.NuGetTools
-This is a repository for NuGet utilities that I've made and find useful. 
+# Gonkers.Tools
+This is a repository for .NET global tools that I've made and find useful. 
 
 ## Tool: next-patch-version
 This is a .NET 5 global tool that will retrieve the next available NuGet package patch version on a given feed. As 

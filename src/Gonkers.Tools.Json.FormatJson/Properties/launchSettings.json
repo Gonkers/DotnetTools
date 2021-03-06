@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Gonkers.JsonTools.FormatJson": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"C:\\Users\\Gonke\\Downloads\\STA.json\" -o \"C:\\Users\\Gonke\\Downloads\\STA_out.json\" --force"
+    }
+  }
+}

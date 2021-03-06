@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
 
-    <PackageId>Gonkers.NuGetTools.NextPatchVersion</PackageId>
+    <PackageId>Gonkers.Tools.NuGet.NextPatchVersion</PackageId>
     <Version>0.1</Version>
 
     <PackAsTool>true</PackAsTool>
